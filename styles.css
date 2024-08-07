@@ -1,0 +1,15 @@
+.full-container {
+color: black;
+font-family: Verdana;
+padding: 40px;
+}
+
+.title {
+color: purple;
+font-size: 30px;
+}
+
+.description {
+color: blue;
+font-size: 20px;
+}
